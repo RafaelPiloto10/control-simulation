@@ -14,6 +14,8 @@ on simulating elevators!
 - [Elevator.cc](./superstructures/Elevator.cc)
 - [Elevator.h](./superstructures/Elevator.h)
 
+![zeroing](./figures/zeroing.png)
+
 ## Hardware
 
 ### Motor
