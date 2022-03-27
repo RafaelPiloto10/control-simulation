@@ -1,0 +1,20 @@
+package(default_visibility = ["//visibility:public"])
+
+cc_library(
+    name = "superstructures",
+    srcs = ["Elevator.cc"],
+    hdrs = ["Elevator.h"],
+    deps = [
+        "//control:controller",
+        "//hardware:motor",
+    ],
+)
+
+cc_test(
+    name = "elevator_test",
+    srcs = ["Elevator_test.cc"],
+    deps = [
+        ":superstructures",
+        "@com_google_googletest//:gtest_main",
+    ],
+)
