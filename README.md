@@ -20,7 +20,8 @@ on simulating elevators!
 
 Using:
 
-<img src="https://render.githubusercontent.com/render/math?math={V = IR + \dfrac{\omega}{kV}}">
+<img src="https://render.githubusercontent.com/render/math?math={V = IR + \dfrac{\omega}{kV}}#gh-light-mode-only">
+<img src="https://render.githubusercontent.com/render/math?math={V = IR + \dfrac{\omega}{kV}}#gh-dark-mode-only">
 
 - [Motor.cc](./hardware/Motor.cc)
 - [Motor.h](./hardware/Motor.h)
