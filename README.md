@@ -18,7 +18,7 @@ on simulating elevators!
 
 ### Motor
 
-Using $V = IR + \frac{\omega, kV}$
+Using $V = IR + \dfrac{\omega}{kV}$
 
 - [Motor.cc](./hardware/Motor.cc)
 - [Motor.h](./hardware/Motor.h)
